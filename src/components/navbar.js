@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center">
             <a className="text-white flex-shrink-0 font-poppins" href="/">
-              Circle
+              Hawkeye Security
             </a>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
